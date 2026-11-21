@@ -24,7 +24,7 @@ Building data pipelines, dashboards, cloud infrastructure and LLM workflows on D
 | Project | What it is | Stack |
 |---|---|---|
 | [myPowerPlant](https://github.com/Vanamali-Sims/myPowerPlant) ([live](https://mypowerplant.tech)) | Five-person team project, best team in our cohort at the Monash IT Industry Experience Expo. I led the AWS infrastructure in Terraform and the CI/CD pipeline | React, TypeScript, FastAPI, PostgreSQL, AWS, Terraform |
-| [aussie-ecolens](https://github.com/Jai-Negi/aussie-ecolens) | Team project: multi-cloud wildlife media platform with event-driven AWS Lambda pipelines | AWS, Firebase, Terraform |
+| [aussie-ecolens](https://github.com/Jai-Negi/aussie-ecolens) | Team project: serverless wildlife observation platform where an event-driven ML pipeline tags Australian species in uploaded photos and videos | AWS (Lambda, S3, DynamoDB, Cognito, SNS), FastAPI, PyTorch, Docker |
 | [meeting-intelligence](https://github.com/Jai-Negi/meeting-intelligence) | Transcribes meetings and runs specialised LLM agents to extract action items, decisions, a topic timeline and a follow-up email | Python, FastAPI, Next.js, Whisper |
 | [databricks-medallion-end-to-end-pipeline](https://github.com/Jai-Negi/databricks-medallion-end-to-end-pipeline) | Bronze, silver, gold lakehouse with incremental ingestion, data quality checks and Unity Catalog governance | Azure Databricks, PySpark, Delta Live Tables |
 | [cloudeco-wildfire-detection](https://github.com/Jai-Negi/cloudeco-wildfire-detection) | YOLOv8 wildfire and smoke detection API on a 3-node Kubernetes cluster, load tested with Locust | FastAPI, Docker, Kubernetes, GCP, Terraform |
